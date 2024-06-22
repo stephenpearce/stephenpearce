@@ -1,5 +1,6 @@
 <p align="center">
-    <a href="//stephenpearce.dev">web projects</a>
+    <a href="//stephenpearce.dev">websites</a> .
+    <a href="//stephenpearce.dev">tools</a>
 </p>
 
 <p align="center">
